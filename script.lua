@@ -84,7 +84,7 @@ local function renderDonut()
             output = output .. "\n"
         end
     end
-    textLabel.set_content(output)
+    textLabel.set_content("\n\n\n\n"..output.."\n\n\n\n")
 end
 
 function makeDonut()
