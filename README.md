@@ -5,4 +5,4 @@ All I did was convert an already existing Lua donut script to work on napture/We
 Have fun!
 ![donut](screenshot/donut.gif)
 
-Original Lua Donut code forked from ![Zeyu-Li](https://github.com/Zeyu-Li/spinning-donuts)
+Original Lua Donut code forked from ![Zeyu Li](https://github.com/Zeyu-Li/spinning-donuts)
